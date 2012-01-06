@@ -400,9 +400,9 @@ class View
         
         //перетаскивание канала (изменение порядка вывода)
         
-        $script='<script>'.$script.'</script>';
+        $script2='<script>'.$script2.'</script>';
         
-        return $script;
+        return $script2;
     }
 }
 
